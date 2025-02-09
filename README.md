@@ -1,14 +1,81 @@
-# System_Tron_Internship
-This repository contains the weekly tasks completed as part of my one-month internship with System Tron. Each task is designed to enhance my skills in web development and programming, covering various technologies and concepts. Currently Working on the different tasks and will update it daily till it gets finished.
+# 🌟 System Tron Web Development Internship
 
-📌 Repository Structure
+Welcome to my **System Tron Web Development Internship** repository! This repository showcases the tasks I have completed over the **4-week internship program**, each focusing on different aspects of **HTML, CSS, and JavaScript** development. 🚀
 
-Week 1: [Simple Calculator] 
+---
 
-Week 2: [Netflix Website Clone] 
+## 📌 Tasks Completed
 
-Week 3: [TO-DO LIST APP]
+### Week 1: **Simple Calculator**
+A fully functional **calculator** built using HTML, CSS, and JavaScript that performs basic arithmetic operations.
 
-🚀 Technologies Used
-HTML, CSS, JavaScript
+🔹 **Features:**
+- Addition, subtraction, multiplication, and division.
+- Responsive and visually appealing UI.
+- Error handling for invalid inputs.
+
+🖼 **Preview:**  
+![Calculator Screenshot](screenshots/calculator.png)
+
+ 📂 [Source Code](#)
+
+---
+
+### Week 2: **Netflix Clone Website**
+A **front-end replica** of Netflix's homepage with a sleek and modern UI.
+
+🔹 **Features:**
+- Eye-catching design with smooth transitions.
+- Responsive layout adapting to different screen sizes.
+- Hover effects and interactive buttons.
+
+🖼 **Preview:**  
+![Netflix Clone Screenshot](screenshots/netflix_clone.png)
+
+ 📂 [Source Code](#)
+
+---
+
+### Week 3: **To-Do List App**
+An interactive **To-Do List App** to manage daily tasks with add, remove, and persist features.
+
+🔹 **Features:**
+- Add new tasks dynamically.
+- Mark tasks as completed/uncompleted.
+- Delete tasks and retain tasks even after page refresh.
+
+🖼 **Preview:**  
+![To-Do List Screenshot](screenshots/todo_list.png)
+
+ 📂 [Source Code](#)
+
+---
+
+### Week 4: **Connect Four Game**
+A classic **Connect Four game** where two players take turns dropping pieces into a grid.
+
+🔹 **Features:**
+- Interactive two-player gameplay.
+- Winning condition detection.
+- Dynamic and responsive UI.
+
+🖼 **Preview:**  
+![Connect Four Screenshot](screenshots/connect_four.png)
+
+ 📂 [Source Code](#)
+
+---
+
+## 🚀 Technologies Used
+- **HTML** – Structuring web content.
+- **CSS** – Styling and designing the UI.
+- **JavaScript** – Making the applications dynamic and interactive.
+
+---
+
+## 📩 Contact
+📧 **Email:** prarabdha.dabhade@gmail.com  
+🔗 **LinkedIn:** [Link To LinkedIn Profile](https://linkedin.com/in/prarabdha-d)
+
+Let's connect and collaborate! 🚀✨
 
