@@ -14,11 +14,11 @@ A fully functional **calculator** built using HTML, CSS, and JavaScript that per
 - Responsive and visually appealing UI.
 - Error handling for invalid inputs.
 
+📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week1)
+
 🖼 **Preview:**  
 
-
-
- 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week1)
+![Image](https://github.com/user-attachments/assets/b5b240de-01c0-4388-85b9-d209540337f5)
 
 ---
 
@@ -30,11 +30,12 @@ A **front-end replica** of Netflix's homepage with a sleek and modern UI.
 - Responsive layout adapting to different screen sizes.
 - Hover effects and interactive buttons.
 
+📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week2)
+
 🖼 **Preview:**  
 
-
-
- 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week2)
+![Image](https://github.com/user-attachments/assets/85eb23ad-3edd-4614-b5a0-37c4d4906645)
+![Image](https://github.com/user-attachments/assets/a3087975-dffb-4f75-ad1a-c52436437d5a)
 
 ---
 
@@ -46,11 +47,11 @@ An interactive **To-Do List App** to manage daily tasks with add, remove, and pe
 - Mark tasks as completed/uncompleted.
 - Delete tasks and retain tasks even after page refresh.
 
+📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week3)
+
 🖼 **Preview:**  
 
-
-
- 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week3)
+![Image](https://github.com/user-attachments/assets/f3a19740-6854-479a-84fe-4b7a54fe8482)
 
 ---
 
@@ -62,11 +63,12 @@ A classic **Connect Four game** where two players take turns dropping pieces int
 - Winning condition detection.
 - Dynamic and responsive UI.
 
+📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week4)
+
 🖼 **Preview:**  
 
-
-
- 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week4)
+![Image](https://github.com/user-attachments/assets/e57e97ad-45da-4da1-9d37-256df8b1a3bf)
+![Image](https://github.com/user-attachments/assets/44be4a8e-ea98-46f5-b0b2-b81c6497cf93)
 
 ---
 
