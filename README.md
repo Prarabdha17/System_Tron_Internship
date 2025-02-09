@@ -15,7 +15,8 @@ A fully functional **calculator** built using HTML, CSS, and JavaScript that per
 - Error handling for invalid inputs.
 
 🖼 **Preview:**  
-![Calculator Screenshot](screenshots/calculator.png)
+
+
 
  📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week1)
 
@@ -30,9 +31,10 @@ A **front-end replica** of Netflix's homepage with a sleek and modern UI.
 - Hover effects and interactive buttons.
 
 🖼 **Preview:**  
-![Netflix Clone Screenshot](screenshots/netflix_clone.png)
 
- 📂 [Source Code](#)
+
+
+ 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week2)
 
 ---
 
@@ -45,9 +47,10 @@ An interactive **To-Do List App** to manage daily tasks with add, remove, and pe
 - Delete tasks and retain tasks even after page refresh.
 
 🖼 **Preview:**  
-![To-Do List Screenshot](screenshots/todo_list.png)
 
- 📂 [Source Code](#)
+
+
+ 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week3)
 
 ---
 
@@ -60,9 +63,10 @@ A classic **Connect Four game** where two players take turns dropping pieces int
 - Dynamic and responsive UI.
 
 🖼 **Preview:**  
-![Connect Four Screenshot](screenshots/connect_four.png)
 
- 📂 [Source Code](#)
+
+
+ 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week4)
 
 ---
 
