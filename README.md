@@ -17,7 +17,7 @@ A fully functional **calculator** built using HTML, CSS, and JavaScript that per
 🖼 **Preview:**  
 ![Calculator Screenshot](screenshots/calculator.png)
 
- 📂 [Source Code](#)
+ 📂 [Source Code](https://github.com/Prarabdha17/System_Tron_Internship/tree/main/WebDev_Week1)
 
 ---
 
